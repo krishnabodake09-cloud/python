@@ -6,3 +6,5 @@ elif a<b:
     max=b
 else: max=a=b
 print(f"the greatest num is {max}")
+# for built in function
+# m=max(a,b)
